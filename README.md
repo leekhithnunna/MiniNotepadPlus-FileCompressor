@@ -37,7 +37,7 @@ A feature-rich Java-based Notepad application that combines essential text editi
 ## 📜 License
 - This project is licensed under the MIT License.
 
-- 
+- Don't run - Debug it
 ---
 
 Would you like me to **customize it further** (like adding screenshots, usage instructions, or contribution guidelines) once you upload the project files? 🚀
